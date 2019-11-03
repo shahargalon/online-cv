@@ -14,8 +14,8 @@ sidebar:
     # Sidebar links
     email: shahargalon@gmail.com
     phone: 052-6871719
-    website: blog.webjeda.com #do not add http://
-    linkedin: shahargalon
+    website:  #do not add http://
+    linkedin: shahar-galon-17a1bb102/
     github: shahargalon
     gitlab:
     bitbucket:
@@ -32,7 +32,7 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: 
         link:
 
 career-profile:
@@ -103,32 +103,27 @@ experiences:
         <br />Oversee and coordinate actions between troops on the ground.
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: 
+    intro:  
+      - title: 
+        link: 
+        tagline: 
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: 
+        link: 
+        tagline:
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title:
+        link: 
+        tagline:
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: 
+        link: 
+        tagline:
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: 
+        link: 
+        tagline: 
 
 publications:
     title: Publications
