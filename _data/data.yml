@@ -48,10 +48,10 @@ education:
       university: HackerU
       time: 2019 - present
       details: |
-        -	Working with bash and writing scripts in python.
-        -	Install Linux and Windows Oss, handling process, and varied problems and configurations.
-        -	Did the LPI1 Certification.
-        -	Course syllabus: https://www.hackeru.co.il/course/linux
+        Working with bash and writing scripts in python.
+        Install Linux and Windows Oss, handling process, and varied problems and configurations.
+        Did the LPI1 Certification.
+        Course syllabus: https://www.hackeru.co.il/course/linux
 
     - degree: -	Economy and Business Management Bachelor’s Degree
       university: The Open University of Israel
