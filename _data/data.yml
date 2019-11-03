@@ -31,53 +31,31 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom: 
-        level: 
-
-    interests:
-      - item: 
-        link:
-
-      - item: 
-        link:
-
-      - item: 
-        link:
-
 career-profile:
     title: Career Profile
     summary: |
       Quality-focused professional with a strong sense of responsibility and team spirit. Ability to multi-task under pressure and to meet tight deadlines.
-      •	Extensive experience providing customer service and handling sales.
-      •	Broad system view with the ability to drill down to the fine details.
-      •	Fast learning curve and great human skills.
+        -	Extensive experience providing customer service and handling sales.
+        -	Broad system view with the ability to drill down to the fine details.
+        -	Fast learning curve and great human skills.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Linux server management course (DevOps specialization
+      university: HackerU
+      time: 2019 - present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        -	Working with bash and writing scripts in python.
+        -	Install Linux and Windows Oss, handling process, and varied problems and configurations.
+        -	Did the LPI1 Certification.
+        -	Course syllabus: https://www.hackeru.co.il/course/linux
 
-          - Bullet point
-          - Bullet point
+    - degree: -	Economy and Business Management Bachelor’s Degree
+      university: The Open University of Israel
+      time: 2014 - 2018
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+    - degree: High School diploma -	Psychology and Sociology
+      university: Ora Modi'im High
+      time: 2004 - 2008
 
 experiences:
     - role: Lead Developer
