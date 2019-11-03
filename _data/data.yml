@@ -31,9 +31,6 @@ sidebar:
       - idiom: English
         level: Professional
 
-    interests:
-      - item: 
-        link:
 
 career-profile:
     title: Career Profile
@@ -102,28 +99,6 @@ experiences:
         Warrior in the infantry at Givati division. Rifleman 07, and command a 4 people squad.
         <br />Oversee and coordinate actions between troops on the ground.
 
-projects:
-    title: 
-    intro:  
-      - title: 
-        link: 
-        tagline: 
-
-      - title: 
-        link: 
-        tagline:
-
-      - title:
-        link: 
-        tagline:
-
-      - title: 
-        link: 
-        tagline:
-
-      - title: 
-        link: 
-        tagline: 
 
 publications:
     title: Publications
