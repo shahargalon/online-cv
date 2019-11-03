@@ -47,7 +47,7 @@ education:
       details: |
         Working with bash and writing scripts in python.
         <br />Install Linux and Windows Oss, handling process, and varied problems and configurations.
-        <br />Did the LPI1 Certification.
+        <br />LPI1 Certification graduate.
         <br />Course syllabus: <a href="https://www.hackeru.co.il/course/linux">https://www.hackeru.co.il/course/linux</a>
 
     - degree:	Economy and Business Management Bachelor’s Degree
@@ -63,10 +63,12 @@ experiences:
       time: 2018 - Present
       company: Max by Leumi (Leumi-card)
       details: |
-        Prepared reports of the call center performance for management and suggest on how to improve and meet the company targets.
-        <br />Handle variance company wide level issues in collaboration with the relevant departments.
-        <br />Developed and improved daily work plans for representatives within each shift.
-        <br />Daily monitoring for certain conditions to avoid degraded service.
+        Prepare reports of the call center performance for management, and advice on how to improve and meet company targets.
+        <br />Handle company wide level issues in collaboration with the relevant departments.
+        <br />Developed and improved daily work plans representatives within each shift.
+        <br />Daily monitoring certain conditions to avoid degraded service.
+
+
 
     - role: Financial Services team supervisor at Max by Leumi (Leumi-card)
       time: 2016 - 2018
@@ -96,51 +98,29 @@ experiences:
       time: 2009 - 2012
       company: Israel Defense Forces
       details: |
-        Warrior in the infantry at Givati division. Rifleman 07, and command a 4 people squad.
+        Warrior in the infantry at Givati division. Rifleman 07, and command a squad.
         <br />Oversee and coordinate actions between troops on the ground.
 
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python 
+        level: 75%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Bash
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: Git and GitHub
+        level: 70%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 50%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Linux OS
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
