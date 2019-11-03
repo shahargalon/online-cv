@@ -112,15 +112,18 @@ skills:
       - name: Bash
         level: 70%
 
-      - name: Git and GitHub
+      - name: Git & GitHub
         level: 70%
 
-      - name: HTML5 & CSS
+      - name: HTML5 & CSS3
         level: 50%
 
-      - name: Linux OS
+      - name: Linux
         level: 90%
+
+        - name: Windows
+        level: 30%
 
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  
