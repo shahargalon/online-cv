@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Shahar Galon
-    tagline: Linux Sys Admin
+    tagline: Linux System Admin
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -59,16 +59,19 @@ education:
       time: 2004 - 2008
 
 experiences:
+- role: Linux System Administrator
+      time: 2020 - present
+      company: SAP Israel
+      details: |
+
     - role: Shift Manager
-      time: 2018 - Present
+      time: 2018 - 2020
       company: Max by Leumi (Leumi-card)
       details: |
         Prepare reports of the call center performance for management, and advice on how to improve and meet company targets.
         <br />Handle company wide level issues in collaboration with the relevant departments.
         <br />Developed and improved daily work plans representatives within each shift.
         <br />Daily monitoring certain conditions to avoid degraded service.
-
-
 
     - role: Financial Services team supervisor at Max by Leumi (Leumi-card)
       time: 2016 - 2018
