@@ -47,7 +47,7 @@ education:
       details: |
         Working with bash and writing scripts in python.
         <br />Install Linux and Windows Oss, handling process, and varied problems and configurations.
-        <br />LPI1 Certification graduate.
+        <br />Working with devops tools like Docker, Kubernetes, Ansible and Jenkins.
         <br />Course syllabus: <a href="https://www.hackeru.co.il/course/linux">https://www.hackeru.co.il/course/linux</a>
 
     - degree:	Economy and Business Management Bachelor’s Degree
@@ -61,7 +61,7 @@ education:
 experiences:
     - role: Linux System Administrator
       time: 2020 - present
-      company: SAP Israel
+      company: SAP Israel / GSR IT
       details: |
 
     - role: Shift Manager
@@ -113,20 +113,22 @@ skills:
         level: 75%
 
       - name: Bash
-        level: 70%
+        level: 85%
 
       - name: Git & GitHub
         level: 70%
 
       - name: HTML5 & CSS3
-        level: 50%
+        level: 40%
 
       - name: Linux
         level: 90%
 
       - name: Windows
         level: 30%
-
+      
+      - name: Ansible
+        level: 60%
 
 footer: >
   
