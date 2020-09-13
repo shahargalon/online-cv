@@ -63,6 +63,11 @@ experiences:
       time: 2020 - present
       company: SAP Israel / GSR IT
       details: |
+        Troubleshooting developers operating systems and providing support for company employees.
+        <br />Working on RHEL, SUSE and Ubuntu.
+        <br />Writing Bash scripts.
+        <br />Working with Zabbix to monitor errors on live systems and deploy fixes with ldt-agent.
+        <br />Responsible for automating security updates for all the company Linux developers machines.
 
     - role: Shift Manager
       time: 2018 - 2020
