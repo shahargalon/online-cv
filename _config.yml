@@ -2,8 +2,8 @@
 
 # Site Settings
 title: Shahar Galon
-url: 'http://webjeda.com'
-baseurl: '/online-cv' #change it according to your repository name
+url: 'https://shahargn.com'
+baseurl: '/' #change it according to your repository name
 description: Shahar Galon CV website
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
