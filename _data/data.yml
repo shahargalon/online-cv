@@ -48,11 +48,11 @@ education:
       university: Online
       time: always - always
       details: |
-        I'm very passionate about my work, and I always strive to learn more and keep myself up to date. One of the platforms I use to do that is Treehouse, so check <a href="https://teamtreehouse.com/shahargalon">my profile</a> to see part of the stuff I'm learning in my free time.
-
+        I'm very passionate about my work, and I always strive to learn more and keep myself up to date. I learn on platforms such as Linux Academy, Treehouse <a href="https://teamtreehouse.com/shahargalon">(my profile)</a> etc.
+  
     - degree: Linux server management course (DevOps specialization)
       university: HackerU
-      time: 2019 - present
+      time: 2019 - 2020
       details: |
         Working with bash and writing scripts in python.
         <br />Install Linux and Windows OSs, handling process, and varied problems and configurations.
