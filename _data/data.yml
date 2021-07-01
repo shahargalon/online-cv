@@ -39,7 +39,6 @@ career-profile:
     title: Career Profile
     summary: |
       Quality-focused professional with a strong sense of responsibility and team spirit. Ability to multi-task under pressure and to meet tight deadlines.
-        -	Extensive experience providing customer service and handling sales.
         -	Broad system view with the ability to drill down to the fine details.
         -	Fast learning curve and great human skills.
 
@@ -49,6 +48,8 @@ education:
       time: always - always
       details: |
         I'm very passionate about my work, and I always strive to learn more and keep myself up to date. I learn on platforms such as Linux Academy, Treehouse <a href="https://teamtreehouse.com/shahargalon">(my profile)</a> etc.
+
+        My last project was on GCP. I focused on building a CD pipeline into K8s cluster, autoscaling, monitoring using Prometheus and Grafana, and configure Istio for traffic management, security, and observability.
   
     - degree: Linux server management course (DevOps specialization)
       university: HackerU
@@ -97,19 +98,12 @@ experiences:
         <br />Provide training, and supervision throughout the initiation of new representative.
 
     - role: Financial Services Representative
-      time: 2013 - 2016
+      time: 2012 - 2016
       company: Max by Leumi (Leumi-card)
       details: |
         Tier 1 services representative at a specialized call center.
         <br />Providing creative solutions to a wide range of card issues as disputes between businesses and customers and handling deal denials.
         <br />Activation credit cards and providing initial service experience.
-
-    - role: ATM Technician
-      time: 2012 - 2013
-      company: Brinks
-      details: |
-        Responsible to secure and dealing with millions of NIS when recharging ATMs.
-        <br />Handling ATMs technical problems, and providing solutions.
 
     - role: Warrior in the infantry at Givati division
       time: 2009 - 2012
@@ -125,7 +119,7 @@ projects:
     assignments:
       - title: Book Store
         link: "https://github.com/shahargalon/book-store"
-        tagline: "A simple backend written in Python with a complete CI/CD on GCP, using Docker, Kubernetes, Cloud Build, and GKE. Running tests on every commint (in every Pull Request) and doing Continuous Deployment once the PR is merged to master. Using PostgreSQL and Redis on Google Cloud Platform."
+        tagline: "A simple backend written in Python with a complete CI/CD on GCP, using Docker, Kubernetes, Cloud Build, and GKE. Running tests on every commint (in every Pull Request) and doing Continuous Deployment once the PR is merged to master. Using PostgreSQL on Google Cloud Platform."
 
 skills:
     title: Skills &amp; Proficiency
@@ -149,8 +143,11 @@ skills:
       - name: Windows
         level: 20%
 
-      - name: Docker & Kubernetes
+      - name: Docker & Kubernetes 
         level: 80%
+      
+      - name: Istio
+        level: 70%
 
       - name: Cloud Providers (GCP, Azure)
         level: 60%
@@ -158,4 +155,6 @@ skills:
       - name: Ansible
         level: 60%
 
+      - name: promitheus & Grafana
+        level: 70%  
 footer: >
